@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nome": "Maria das Graças",
+    "especialidade": "Renda Renascença",
+    "cidade": "Campina Grande"
+  },
+  {
+    "id": 2,
+    "nome": "José Oliveira",
+    "especialidade": "Cerâmica utilitária",
+    "cidade": "Caruaru"
+  }
+]

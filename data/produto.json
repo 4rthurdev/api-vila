@@ -1,0 +1,14 @@
+[
+  {
+    "id": 101,
+    "nome": "Toalha bordada à mão",
+    "categoria": "Têxtil",
+    "preco": 75.0
+  },
+  {
+    "id": 102,
+    "nome": "Cumbuca de barro",
+    "categoria": "Cerâmica",
+    "preco": 30.0
+  }
+]
